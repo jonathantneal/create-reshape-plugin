@@ -1,0 +1,27 @@
+{
+  "name": "create-reshape-plugin",
+  "version": "1.0.0",
+  "bin": {
+    "create-reshape-plugin": "./index.js"
+  },
+  "description": "Quickly create new Reshape plugins",
+  "author": "Jonathan Neal <jonathantneal@hotmail.com>",
+  "license": "CC0-1.0",
+  "repository": "jonathantneal/create-reshape-plugin",
+  "homepage": "https://github.com/jonathantneal/create-reshape-plugin#readme",
+  "bugs": "https://github.com/jonathantneal/create-reshape-plugin/issues",
+  "engines": {
+    "node": ">=6.5.0"
+  },
+  "files": [
+    "index.js",
+    "lib/**/*",
+    "template/**/*"
+  ],
+  "keywords": [
+    "reshape",
+    "html",
+    "reshape-boilerplate",
+    "boilerplate"
+  ]
+}
